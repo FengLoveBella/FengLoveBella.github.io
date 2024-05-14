@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "xx Tang"
-description              : "This is the academic homepage of Ph.D. Tang."
+title                    : "Zhou Feng"
+description              : "This is the academic homepage of Ph.D. Zhou."
 repository               : "FengLoveBella/FengLoveBella.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "xx Tang"
+  name             : "Zhou Feng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Huazhong university of science and technology"
-  location         : "Wuhan, China"
+  bio              : "North China University of Technology"
+  location         : "Beijing, China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Ad1_iFMAAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  email            : "zhoufeng@ncut.edu.cn"
+  researchgate     : 
   uri              : 
   bitbucket        :
   codepen          :
