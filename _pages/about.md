@@ -28,7 +28,6 @@ Let's go all out and have fun together on this academic journey!
 
 # 🎓 Educations 
 - *2016.06 - 2022.12*, <a href="https://vrlab.buaa.edu.cn/"></a> Beihang University, State Key Laboratory of Virtual Reality Technology and Systems, Ph.D., Beijing China.
-- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
  
 
 # 📝 Publications 
