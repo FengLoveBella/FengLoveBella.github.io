@@ -36,33 +36,41 @@ Let's go all out and have fun together on this academic journey!
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Sciences 13,</div><img src='images/fig_AKD.png' alt="png" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Sciences 13,</div><img src='images/freeEdit.png' alt="png" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Zhou, Feng`, Qi Zhang, He Zhu, Shibo Liu, Na Jiang, Xingquan Cai, Qianfang Qi, and Yong Hu. "Attentional Keypoint Detection on Point Clouds for 3D Object Part Segmentation." Applied Sciences 13, no. 23 (2023): 12537.
-[[网页]](https://ieeexplore.ieee.org/abstract/document/10446600) 
+-	lin, Y., Dai, J., Pan, J., `Zhou, F.`, & Bai, J. (2024). Free editing of Shape and Texture with Deformable Net for 3D Caricature Generation. The Visual Computer, 1-13.
+[[网页]](https://link.springer.com/article/10.1007/s00371-024-03461-9) 
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Sciences 13</div><img src='images/fig_MSA.png' alt="png" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Sciences 13</div><img src='images/formationCreator.gif' alt="png" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	 `Zhou, Feng`, Junkai Rao, Pei Shen, Qi Zhang, Qianfang Qi, and Yao Li. "REGNet: Ray-Based Enhancement Grouping for 3D Object Detection Based on Point Cloud." Applied Sciences 13, no. 10 (2023): 6098.
-[[网页]](https://www.mdpi.com/2076-3417/13/10/6098)
+-	 Rao J, `Zhou F`, Dai J, et al. FormationCreator: Designing A VR Dance Formation System for Intangible Cultural Heritage Dance[C]//Extended Abstracts of the CHI Conference on Human Factors in Computing Systems. 2024: 1-7.
+[[网页]](https://dl.acm.org/doi/full/10.1145/3613905.3651028)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Visual Computer, 2019</div><img src='images/fig_REG.png' alt="png" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Visual Computer, 2019</div><img src='images/AHNet.gif' alt="png" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Zhou F`, Hu Y, Shen X. MSANet: multimodal self-augmentation and adversarial network for RGB-D object recognition[J]. The Visual Computer, 2019, 35(11): 1583-1594.
-[[HEML]](https://link.springer.com/article/10.1007/s00371-018-1559-x)
+-	`Zhou F`, Shen P, Dai J, et al. AHRNet: Attention and heatmap-based regressor for hand pose estimation and mesh recovery[C]//ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2024: 3000-3004.
+[[网页]](https://ieeexplore.ieee.org/abstract/document/10446600/)
 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Sciences 13,</div><img src='images/KD.png' alt="png" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Dai, J., Li, H., Zeng, R., Bai, J., `Zhou, F.`, & Pan, J. (2023). KD-Former: Kinematic and dynamic coupled transformer network for 3D human motion prediction. Pattern Recognition, 143, 109806.
+[[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0031320323005046) 
+
+</div>
+</div>
 
 - Chen, Keng, `Feng Zhou`, Ju Dai, Pei Shen, Xingquan Cai, and Fengquan Zhang. "MCGNet: Multi-Level Context-aware and Geometric-aware Network for 3D Object Detection." In 2022 IEEE International Conference on Image Processing (ICIP), pp. 1846-1850. IEEE, 2022.  
 [[HEML]](https://ieeexplore.ieee.org/abstract/document/9897465/)
