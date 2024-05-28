@@ -27,10 +27,10 @@ Let's embark on the academic journey towards "A" together, and have a blast!
 Let's go all out and have fun together on this academic journey!
 
 # 🎓 News
-- *2024.05* </a> One paper is accepted to TVC
-- *2024.02* </a> One paper FormationCreator is accepted to LBW CHI2024
-- *2023.12* </a> One paper AHRNet is accepted to ICASSP2024
-- *2023.11* </a> One paper KD-Former is accepted to Pattern Recognition
+- *2024.05* One paper is accepted to TVC
+- *2024.02* One paper FormationCreator is accepted to LBW CHI2024
+- *2023.12* One paper AHRNet is accepted to ICASSP2024
+- *2023.11* One paper KD-Former is accepted to Pattern Recognition
  
 
 # 📝 Publications 
