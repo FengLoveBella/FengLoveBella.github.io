@@ -36,7 +36,7 @@ Let's go all out and have fun together on this academic journey!
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Sciences 13,</div><img src='images/freeEdit.png' alt="png" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Visual Computer</div><img src='images/freeEdit.png' alt="png" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	lin, Y., Dai, J., Pan, J., `Zhou, F.`, & Bai, J. (2024). Free editing of Shape and Texture with Deformable Net for 3D Caricature Generation. The Visual Computer, 1-13.
@@ -45,7 +45,7 @@ Let's go all out and have fun together on this academic journey!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Sciences 13</div><img src='images/formationCreator.gif' alt="png" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Extended Abstracts of the CHI Conference on Human Factors in Computing Systems</div><img src='images/formationCreator.gif' alt="png" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	 Rao J, `Zhou F`, Dai J, et al. FormationCreator: Designing A VR Dance Formation System for Intangible Cultural Heritage Dance[C]//Extended Abstracts of the CHI Conference on Human Factors in Computing Systems. 2024: 1-7.
@@ -54,7 +54,7 @@ Let's go all out and have fun together on this academic journey!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Visual Computer, 2019</div><img src='images/AHNet.gif' alt="png" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE International Conference on Acoustics</div><img src='images/AHNet.gif' alt="png" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Zhou F`, Shen P, Dai J, et al. AHRNet: Attention and heatmap-based regressor for hand pose estimation and mesh recovery[C]//ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2024: 3000-3004.
@@ -63,7 +63,7 @@ Let's go all out and have fun together on this academic journey!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Sciences 13,</div><img src='images/KD.png' alt="png" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/KD.png' alt="png" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Dai, J., Li, H., Zeng, R., Bai, J., `Zhou, F.`, & Pan, J. (2023). KD-Former: Kinematic and dynamic coupled transformer network for 3D human motion prediction. Pattern Recognition, 143, 109806.
@@ -91,7 +91,6 @@ Let's go all out and have fun together on this academic journey!
 - Dyke R M, `Zhou F`, Lai Y, et al. SHREC'20: Non-rigid shape correspondence of physically-based deformations[J]. 2020.  
 [[HEML]](https://orca.cardiff.ac.uk/id/eprint/134585/)
 
--You can refer to it directly: https://scholar.google.com.hk/citations?user=Ad1_iFMAAAAJ&hl=zh-CN
 
 <span class='anchor' id='-ryjx'></span>
 
