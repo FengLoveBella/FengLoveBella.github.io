@@ -17,17 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Feng Zhou and I work as a lecturer at North China University of Technology.Previously, I obtained my PHD at Beihang University under the supervision of Prof. Xukun Shen and Prof. Yong Hu.
+Zhou Feng, graduated from the State Key Laboratory of Virtual Reality Technology and Systems at Beihang University, under the supervision of Professors Shen Xukun and Hu Yong. In 2020, he joined the School of Information Science and Technology at North Industrial University as a lecturer.<br/>
 
-My research work focuses on several directions, including 3D vision (such as point cloud segmentation/classification/detection/completion), human pose estimation, hand pose estimation and vision meets language(point cloud/pose understanding via language, avatar generation).
+My research focuses on 3D computer vision, artificial intelligence, and virtual reality, specifically in the areas of point cloud segmentation, point cloud detection, and digital human modeling and understanding. Additionally, I am actively exploring applications in virtual reality and the protection of intangible cultural heritage, such as choreography for intangible cultural dances and content generation. I have led one project supported by the Beijing Natural Science Foundation, one project under the Beijing Municipal Education Commission Science and Technology Plan, one sub-project under the Yunnan Provincial Science and Technology Plan, and one open project of the State Key Laboratory. I have published over 10 papers in the fields of computer graphics and artificial intelligence. Furthermore, I am a member of various committees, including the Virtual Reality and Visualization Technology Professional Committee of the China Computer Society, the Virtual Technology and Application Professional Committee of the China Simulation Society, the Virtual Space Special Committee of the China Film Art Society, and the Digital Media Special Committee of the China Graphics Society.
 
-Being humorous and getting along well with students,
+Currently, I collaborate closely with Beihang University, Peng Cheng Laboratory, and Cardiff University.
 Looking forward to students who are interested in the research direction, and willing to proactively engage with the supervisor's research,
 Let's embark on the academic journey towards "A" together, and have a blast!
 Let's go all out and have fun together on this academic journey!
 
-# 🎓 Educations 
-- *2016.06 - 2022.12*, <a href="https://vrlab.buaa.edu.cn/"></a> Beihang University, State Key Laboratory of Virtual Reality Technology and Systems, Ph.D., Beijing China.
+# 🎓 News
+- *2024.05* </a> One paper is accepted to TVC
+- *2024.02* </a> One paper FormationCreator is accepted to LBW CHI2024
+- *2023.12* </a> One paper AHRNet is accepted to ICASSP2024
+- *2023.11* </a> One paper KD-Former is accepted to Pattern Recognition
  
 
 # 📝 Publications 
