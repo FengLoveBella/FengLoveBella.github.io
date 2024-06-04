@@ -33,7 +33,7 @@ Let's go all out and have fun together on this academic journey!
 - *2023.11*, One paper KD-Former is accepted to Pattern Recognition
  
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Visual Computer</div><img src='images/freeEdit.png' alt="png" width="100%"></div></div>
