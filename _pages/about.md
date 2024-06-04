@@ -54,7 +54,7 @@ Let's go all out and have fun together on this academic journey!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE International Conference on Acoustics</div><img src='images/AHNet.GIF' alt="gif" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 ICASSP</div><img src='images/AHNet.GIF' alt="gif" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Zhou Feng`, Shen P, Dai J, et al. AHRNet: Attention and heatmap-based regressor for hand pose estimation and mesh recovery[C]//ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2024: 3000-3004.
