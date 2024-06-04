@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhou Feng, who graduated from State Key Laboratory of Virtual Reality Technology and Systems at Beihang University, under the supervision of Professors Shen Xukun and Hu Yong. In 2020, he joined the School of Information Science and Technology at North China University of Technology as a lecturer.<br/>
+I graduated from the State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, under the supervision of Professors Shen Xukun and Hu Yong. In 2020, he joined the School of Information Science and Technology at North China University of Technology as a lecturer.<br/>
 
 My research focuses on 3D computer vision, artificial intelligence, and virtual reality, specifically in the areas of point cloud segmentation, point cloud detection, and digital human modeling and understanding. Additionally, I am actively exploring applications in virtual reality and the protection of intangible cultural heritage, such as choreography for intangible cultural dances and content generation. I have published almost 20 papers in the fields of computer graphics and artificial intelligence. Furthermore, I am a member of various committees, including the Virtual Reality and Visualization Technology Professional Committee of the China Computer Society, the Digital Media Special Committee of the China Graphics Society and so on.
 
