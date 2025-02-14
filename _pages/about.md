@@ -27,10 +27,13 @@ Let's embark on the academic journey towards "A" together, and have a blast!
 Let's go all out and have fun together on this academic journey!
 
 # 🎓 News
+- *2025.01*, One paper is accepted to ICASSP 2025(CCF B)
+- *2024.12*, One paper is accepted to AAAI 2025(CCF A)
+- *2024.09*, One paper is accepted to TVC
 - *2024.05*, One paper is accepted to TVC
-- *2024.02*, One paper FormationCreator is accepted to LBW CHI2024
-- *2023.12*, One paper AHRNet is accepted to ICASSP2024
-- *2023.11*, One paper KD-Former is accepted to Pattern Recognition
+- *2024.02*, One paper FormationCreator is accepted to LBW CHI2024 (CCF A)
+- *2023.12*, One paper AHRNet is accepted to ICASSP2024 (CCF B)
+- *2023.11*, One paper KD-Former is accepted to Pattern Recognition (CCF B)
  
 
 # 📝 Selected Publications 
