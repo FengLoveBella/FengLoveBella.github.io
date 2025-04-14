@@ -27,6 +27,7 @@ Let's embark on the academic journey towards "A" together, and have a blast!
 Let's go all out and have fun together on this academic journey!
 
 # 🎓 News
+- *2025.04*， Two papers are accepted to CVPR 2025 (CCF A)
 - *2025.01*, One paper is accepted to ICASSP 2025(CCF B)
 - *2024.12*, One paper is accepted to AAAI 2025(CCF A)
 - *2024.09*, One paper is accepted to TVC
